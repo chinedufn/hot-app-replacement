@@ -5,7 +5,7 @@ hot-app-replacement [![npm version](https://badge.fury.io/js/hot-app-replacement
 
 Had this lying around. Inspired to module-ify it by @yoshuawuyts's [tweet](https://twitter.com/yoshuawuyts/status/747800325508169728). Code cleanup incoming...
 
-![image](http://i.giphy.com/3o6gEfSFxmJhwzEXL2.gif)
+![image](http://i.giphy.com/l46ChXfjvnVleGc4E.gif)
 
 No API or CLI yet. But you can:
 
