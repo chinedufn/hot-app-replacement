@@ -41,8 +41,8 @@ function render (AppState) {
   var state = AppState.get()
 
   return h('div', {
-    style: { color: 'red', fontSize: '36px' }
-  }, state.numBeavers + ' in the beaver dam!')
+    style: { color: 'red' }
+  }, state.numBeavers + ' beavers')
 }
 
 function incrementBeavers (AppState) {
